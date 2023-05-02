@@ -6,6 +6,6 @@ function byteSize(str) {
   // Return the size of the bytes array
   return bytes.length;
 }
-console.log(byteSize('hello world')); // 11
-console.log(byteSize('안녕하세요')); // 15
-console.log(byteSize('')); // 0
+// console.log(byteSize('hello world')); // 11
+// console.log(byteSize('안녕하세요')); // 15
+// console.log(byteSize('')); // 0
